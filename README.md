@@ -5,7 +5,7 @@ This is the SDK/Example repository for ToF modules based on ToF ISP DEI600XU, wh
 
 Two main functions of SDK/Example are:
  * Depth/IR image grabbing.
- * Parameter setting and getti
+ * Parameter setting and getting
 
 ## Supported Device
 Currently, following devices are supported
